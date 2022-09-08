@@ -10858,3 +10858,13 @@ textarea.form-control-lg {
 body {
   background-color: wheat;
 }
+
+.ms_card-cont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+div.card-body {
+  width: 50%;
+}

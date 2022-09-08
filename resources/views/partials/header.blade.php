@@ -1,4 +1,4 @@
-<header>
+<header class="container-fluid">
     <nav class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="{{route('homepage')}}">Movies Library</a>
@@ -15,7 +15,6 @@
                 <a class="nav-link active" aria-current="page" href="{{route('movies')}}">Movies</a>
               </li>
               
-              </li>
             </ul>
           </div>
         </div>
