@@ -1,1 +1,5 @@
-<h1>ciao</h1>
+@extends('layouts.main')
+
+@section('main-content')
+
+@endsection
